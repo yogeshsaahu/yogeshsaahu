@@ -6,7 +6,9 @@
 
 ###
 
-<img align="right" height="135" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
 
 ###
 
