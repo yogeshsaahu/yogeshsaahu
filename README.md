@@ -13,6 +13,7 @@
 ###
 
 <h4 align="left">A hard-working person who loves to write clean and scalable code using the latest tech stack. Always hungry for learning new things.</h4>
+<h4 align="left">i have nothing on github beacause i mostly write code that makes money 👍</h4>
 
 ###
 
